@@ -1,0 +1,9 @@
+segment=20
+epsilon=0.0
+little_count=40
+rand_range=360.0
+max_count=1200
+eps=0.01
+pc_use=0
+show=1
+test_count=10
